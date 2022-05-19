@@ -461,7 +461,7 @@ POSSIBILITY OF SUCH DAMAGE.
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://hsr_meshes/meshes/torso_v0/torso.std"/>
+        <mesh filename="package://hsr_meshes/meshes/torso_v0/torso.stl"/>
       </geometry>
     </collision>
   </link>
